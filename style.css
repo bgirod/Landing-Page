@@ -1,0 +1,12 @@
+ul {
+  list-style-type: none;
+  text-align: right;
+}
+
+.logo {
+  width: 7vw;
+}
+
+.font-fa {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
